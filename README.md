@@ -5,12 +5,12 @@ Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc.
 <br><br>
 ## Computing Core Courses [Common Courses for BS (CS/SE/IT/AI)]
 
-* [Programming Fundamentals](Programming-Fundamentals/)
-* [Object Oriented Programming](Object-Oriented-Programming/)
-* [Data Structures & Algorithms](Data-Structures-Algorithms/)
-* [Discrete Structures](Discrete-Structures/)
-* [Operating Systems](Operating-Systems/)
-* [Database Systems](Database-Systems/)
-* [Software Engineering](Software-Engineering/)
-* [Computer Networks](Computer-Networks/)
+* [Programming Fundamentals](BS-ComputerScience-SoftwareEngineering-IT-AI/Programming-Fundamentals/)
+* [Object Oriented Programming](BS-ComputerScience-SoftwareEngineering-IT-AI/Object-Oriented-Programming/)
+* [Data Structures & Algorithms](BS-ComputerScience-SoftwareEngineering-IT-AI/Data-Structures-Algorithms/)
+* [Discrete Structures](BS-ComputerScience-SoftwareEngineering-IT-AI/Discrete-Structures/)
+* [Operating Systems](BS-ComputerScience-SoftwareEngineering-IT-AI/Operating-Systems/)
+* [Database Systems](BS-ComputerScience-SoftwareEngineering-IT-AI/Database-Systems/)
+* [Software Engineering](BS-ComputerScience-SoftwareEngineering-IT-AI/Software-Engineering/)
+* [Computer Networks](BS-ComputerScience-SoftwareEngineering-IT-AI/Computer-Networks/)
 * [Information Security]()
