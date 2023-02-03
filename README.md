@@ -24,3 +24,38 @@ Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc.
 * Pakistan Studies
 * Islamic Studies
  
+### University Elective Courses
+* Foreign Language
+* Social Service
+* Management Related
+* Social Science Related
+* Economy Related
+
+### Mathematics and Science Foundation Courses
+* Calculus & Analytical Geometry 
+* Probability & Statistics
+* Linear Algebra
+* Applied Physics
+
+## Domain Courses for BS (COMPUTER SCIENCE) <br>
+### Computer Science Core (Compulsory) Courses
+* Compiler Construction
+* Comp. Organization & Assembly Language
+* Digital Logic Design
+* Design & Analysis of Algorithms
+* Parallel & Distributed Computing
+* Artificial Intelligence
+* Theory of Automata
+
+### Computer Science Supporting Courses
+* Differential Equations
+* Multi-variate Calculus
+* Graph Theory
+* Theory of Programming Languages
+* Numerical Computing
+
+### Computer Science Elective Courses
+* Web Programming
+* Advance OOP
+* Visual Programming
+* Mobile App Development etc.
