@@ -14,3 +14,12 @@ Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc.
 * Software Engineering
 * Computer Networks
 * Information Security
+<br>
+### General Education Courses
+* English Composition & Comprehension
+* Technical & Business Writing 
+* Communication & Presentation Skills
+* Professional Practices
+* Intro. to Information & Computer Technology
+* Pakistan Studies
+* Islamic Studies
