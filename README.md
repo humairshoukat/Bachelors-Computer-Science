@@ -3,7 +3,7 @@ This repo contains data of the courses taught in the BS Degree of [Computer Scie
 <br> <br>
 Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc.
 <br><br>
-## Computing Core Courses [Common Courses for BS (CS/SE/IT/AI)]
+### Computing Core Courses [Common Courses for BS (CS/SE/IT/AI)]
 
 * [Programming Fundamentals](BS-ComputerScience-SoftwareEngineering-IT-AI/Programming-Fundamentals/)
 * [Object Oriented Programming](BS-ComputerScience-SoftwareEngineering-IT-AI/Object-Oriented-Programming/)
