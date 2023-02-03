@@ -21,7 +21,7 @@ If you want to contribute a full course please make a separate folder for it. If
 ### General Education Courses
 * English Composition & Comprehension
 * Technical & Business Writing 
-* Communication & Presentation Skills
+* [Communication & Presentation Skills](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Communication%20%26%20Presentation%20skills)
 * Professional Practices
 * Intro. to Information & Computer Technology
 * Pakistan Studies
@@ -35,20 +35,20 @@ If you want to contribute a full course please make a separate folder for it. If
 * Economy Related
 
 ### Mathematics and Science Foundation Courses
-* Calculus & Analytical Geometry 
+* [Calculus & Analytical Geometry](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Calculus%20%26%20Analytical%20Geometry) 
 * Probability & Statistics
 * Linear Algebra
-* Applied Physics
+* [Applied Physics](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Applied%20Physics%20%26%20Electronics)
 
 ## Domain Courses for BS (COMPUTER SCIENCE) <br>
 ### Computer Science Core (Compulsory) Courses
 * Compiler Construction
-* Comp. Organization & Assembly Language
+* [Comp. Organization & Assembly Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Computer%20Organization%20%26%20Assembly%20Language)
 * Digital Logic Design
 * Design & Analysis of Algorithms
 * Parallel & Distributed Computing
-* Artificial Intelligence
-* Theory of Automata
+* [Artificial Intelligence](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Artificial%20Intelligence)
+* [Theory of Automata](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Automata%20Theory)
 
 ### Computer Science Supporting Courses
 * Differential Equations
@@ -59,7 +59,7 @@ If you want to contribute a full course please make a separate folder for it. If
 
 ### Computer Science Elective Courses
 * Web Programming
-* Advance OOP
+* [Advance OOP](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Advance%20OOP)
 * Visual Programming
 * Mobile App Development etc.
 
