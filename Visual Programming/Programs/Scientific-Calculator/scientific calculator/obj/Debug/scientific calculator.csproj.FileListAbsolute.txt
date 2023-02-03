@@ -1,0 +1,10 @@
+C:\Users\muham\source\repos\scientific calculator\scientific calculator\bin\Debug\scientific calculator.exe.config
+C:\Users\muham\source\repos\scientific calculator\scientific calculator\bin\Debug\scientific calculator.exe
+C:\Users\muham\source\repos\scientific calculator\scientific calculator\bin\Debug\scientific calculator.pdb
+C:\Users\muham\source\repos\scientific calculator\scientific calculator\obj\Debug\scientific calculator.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\scientific calculator\scientific calculator\obj\Debug\scientific_calculator.Form1.resources
+C:\Users\muham\source\repos\scientific calculator\scientific calculator\obj\Debug\scientific_calculator.Properties.Resources.resources
+C:\Users\muham\source\repos\scientific calculator\scientific calculator\obj\Debug\scientific calculator.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\scientific calculator\scientific calculator\obj\Debug\scientific calculator.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\scientific calculator\scientific calculator\obj\Debug\scientific calculator.exe
+C:\Users\muham\source\repos\scientific calculator\scientific calculator\obj\Debug\scientific calculator.pdb
