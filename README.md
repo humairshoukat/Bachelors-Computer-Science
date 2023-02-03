@@ -8,9 +8,9 @@ Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc.
 * Programming Fundamentals
 * Object Oriented Programming
 * Data Structures & Algorithms
-* [Discrete Structures]
-* [Operating Systems]
-* [Database Systems]
-* [Software Engineering]
-* [Computer Networks]
-* [Information Security]
+* Discrete Structures
+* Operating Systems
+* Database Systems
+* Software Engineering
+* Computer Networks
+* Information Security
