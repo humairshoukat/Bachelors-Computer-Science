@@ -1,0 +1,24 @@
+Dumping macros: __VERIWELL__
+VeriLogger Pro simulation log created at Tue May 11 13:23:43 2021
+Beginning Compile
+Beginning Phase I
+Compiling source file: C:\Users\Hp\Documents\DLD Lab Programs\Half Subtractor and Full Subtractor\2302HumairShoukat.v
+Finished Phase I
+Entering Phase II...
+Compiling auto-generated top level module file: C:\Users\Hp\Documents\DLD Lab Programs\Half Subtractor and Full Subtractor\untitled0Tim.v
+Finished Phase II
+Entering Phase III...
+Finished Phase III
+Highest level modules:   syncad_top
+Finding handle to syncad_top.test.a
+Finding handle to syncad_top.test.b
+Finding handle to syncad_top.test.c
+Finding handle to syncad_top.test.D
+Finding handle to syncad_top.test.B
+Compile Complete
+.
+Running...
+0 Errors, 0 Warnings
+Compile time = 0.00900, Load time = 0.09300, Execution time = 0.00200
+
+Normal exit
