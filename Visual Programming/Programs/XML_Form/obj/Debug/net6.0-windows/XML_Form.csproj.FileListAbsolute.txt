@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\XML_Form.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\XML_Form.Form1.resources
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\XML_Form.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\XML_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\XML_Form.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\XML_Form.AssemblyInfo.cs
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\XML_Form.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\XML_Form\bin\Debug\net6.0-windows\XML_Form.exe
+C:\Users\Admin\source\repos\XML_Form\bin\Debug\net6.0-windows\XML_Form.deps.json
+C:\Users\Admin\source\repos\XML_Form\bin\Debug\net6.0-windows\XML_Form.runtimeconfig.json
+C:\Users\Admin\source\repos\XML_Form\bin\Debug\net6.0-windows\XML_Form.dll
+C:\Users\Admin\source\repos\XML_Form\bin\Debug\net6.0-windows\XML_Form.pdb
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\XML_Form.dll
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\refint\XML_Form.dll
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\XML_Form.pdb
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\XML_Form.genruntimeconfig.cache
+C:\Users\Admin\source\repos\XML_Form\obj\Debug\net6.0-windows\ref\XML_Form.dll
