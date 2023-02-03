@@ -20,6 +20,6 @@ Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc.
 * Technical & Business Writing 
 * Communication & Presentation Skills
 * Professional Practices
-* Intro. to Information & Computer Technology
+* Intro. to Information & Computer/Communication Technologies
 * Pakistan Studies
 * Islamic Studies
