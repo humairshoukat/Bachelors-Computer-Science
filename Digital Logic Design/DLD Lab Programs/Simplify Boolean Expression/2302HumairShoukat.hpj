@@ -1,0 +1,47 @@
+<!DOCTYPE SimulationProject SYSTEM "hdl-prj.dtd">
+<SimulationProject Logfile="verilog.log" Keyfile="..\..\..\..\..\SYNAPT~1\verilog.key" Language="Verilog" DelayType="typical" AddTopLevelSignals="1" FileNamesShown="1" HideEmptyLists="1" ShowWatch="1" DumpWatch="0" InteractiveMode="1" ParametersAreWatchable="0" ClearLogBeforeCompile="1" AutoParseProject="0">
+  <FileList>
+    <File IsIndirectlyAdded="0">2302HumairShoukat.v</File>
+    <File IsIndirectlyAdded="1">untitled0Tim.v</File>
+  </FileList>
+  <DirList>
+    <Directory>C:\SynaptiCAD\</Directory>
+    <Directory>C:\Users\Hp\Documents\DLD Lab Programs\Simplifying Boolean Expression\</Directory>
+  </DirList>
+  <LibDirList>
+    <Directory>C:\SynaptiCAD\lib\verilog\</Directory>
+  </LibDirList>
+  <LibExtensionList>
+    <Extension>.v</Extension>
+    <Extension>.vo</Extension>
+  </LibExtensionList>
+  <NameOfModelUnderTest></NameOfModelUnderTest>
+  <ComponentInstantiation></ComponentInstantiation>
+  <ComponentDeclaration></ComponentDeclaration>
+  <TBenchProperties>
+    <TBenchProp Value="False">VerboseSamples</TBenchProp>
+    <TBenchProp Value="False">VerboseSequenceVerification</TBenchProp>
+    <TBenchProp Value="False">VerboseDelays</TBenchProp>
+    <TBenchProp Value="False">VerboseFileInput</TBenchProp>
+    <TBenchProp Value="Sample state matches">SampleIf</TBenchProp>
+    <TBenchProp Value="Do nothing">SampleThen</TBenchProp>
+    <TBenchProp Value="Display message">SampleElse</TBenchProp>
+    <TBenchProp Value="output">SignalDirection</TBenchProp>
+    <TBenchProp Value="True">GenerateSampleHdlCode</TBenchProp>
+    <TBenchProp Value="True">GenerateMarkerHdlCode</TBenchProp>
+    <TBenchProp Value="True">GenerateDelayHdlCode</TBenchProp>
+    <TBenchProp Value="True">ExecuteFromTopLevel</TBenchProp>
+    <TBenchProp Value="Never">VerilogTimeOutLength</TBenchProp>
+    <TBenchProp Value="Never">VhdlTimeOutLength</TBenchProp>
+    <TBenchProp Value="Never">SystemCTimeOutLength</TBenchProp>
+    <TBenchProp Value="Never">VeraTimeOutLength</TBenchProp>
+    <TBenchProp Value="True">VerilogIncludeDelayTime</TBenchProp>
+    <TBenchProp Value="True">VhdlIncludeDelayTime</TBenchProp>
+    <TBenchProp Value="False">SystemCIncludeDelayTime</TBenchProp>
+    <TBenchProp Value="False">VeraIncludeDelayTime</TBenchProp>
+    <TBenchProp Value="wire">VerilogSignalType</TBenchProp>
+    <TBenchProp Value="std_logic">VhdlSignalType</TBenchProp>
+    <TBenchProp Value="sc_bit">SystemCSignalType</TBenchProp>
+    <TBenchProp Value="True">VhdlGenerateAbortCode</TBenchProp>
+  </TBenchProperties>
+</SimulationProject>

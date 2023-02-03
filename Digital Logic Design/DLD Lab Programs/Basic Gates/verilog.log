@@ -1,0 +1,21 @@
+Dumping macros: __VERIWELL__
+VeriLogger Pro simulation log created at Tue Mar 23 19:35:40 2021
+Beginning Compile
+Beginning Phase I
+Compiling source file: C:\Users\Hp\Documents\DLD Lab Programs\Basic Gates\2302HumairShoukat.v
+Finished Phase I
+Entering Phase II...
+Compiling auto-generated top level module file: C:\Users\Hp\Documents\DLD Lab Programs\Basic Gates\untitled0Tim.v
+Finished Phase II
+Entering Phase III...
+Finished Phase III
+Highest level modules:   syncad_top
+Finding handle to syncad_top.test_humairnot.a
+Finding handle to syncad_top.test_humairnot.c
+Compile Complete
+.
+Running...
+0 Errors, 0 Warnings
+Compile time = 0.00900, Load time = 0.10300, Execution time = 0.00500
+
+Normal exit

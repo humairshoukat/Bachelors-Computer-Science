@@ -1,0 +1,27 @@
+Dumping macros: __VERIWELL__
+VeriLogger Pro simulation log created at Thu May 06 20:16:52 2021
+Beginning Compile
+Beginning Phase I
+Compiling source file: C:\Users\Hp\Documents\DLD Lab Programs\Binary To Gray Code Converter\2302HumairShouka.v
+Finished Phase I
+Entering Phase II...
+Compiling auto-generated top level module file: C:\Users\Hp\Documents\DLD Lab Programs\Binary To Gray Code Converter\untitled1Tim.v
+Finished Phase II
+Entering Phase III...
+Finished Phase III
+Highest level modules:   syncad_top
+Finding handle to syncad_top.test.B3
+Finding handle to syncad_top.test.B2
+Finding handle to syncad_top.test.B1
+Finding handle to syncad_top.test.B0
+Finding handle to syncad_top.test.G3
+Finding handle to syncad_top.test.G2
+Finding handle to syncad_top.test.G1
+Finding handle to syncad_top.test.G0
+Compile Complete
+.
+Running...
+0 Errors, 0 Warnings
+Compile time = 0.00900, Load time = 0.09100, Execution time = 0.00100
+
+Normal exit

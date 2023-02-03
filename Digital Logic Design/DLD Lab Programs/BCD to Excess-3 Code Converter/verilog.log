@@ -1,0 +1,27 @@
+Dumping macros: __VERIWELL__
+VeriLogger Pro simulation log created at Tue May 11 18:35:22 2021
+Beginning Compile
+Beginning Phase I
+Compiling source file: C:\Users\Hp\Documents\DLD Lab Programs\BCD to Excess-3 Code Converter\2302HumairShoukat.v
+Finished Phase I
+Entering Phase II...
+Compiling auto-generated top level module file: C:\Users\Hp\Documents\DLD Lab Programs\BCD to Excess-3 Code Converter\untitled0Tim.v
+Finished Phase II
+Entering Phase III...
+Finished Phase III
+Highest level modules:   syncad_top
+Finding handle to syncad_top.test.B3
+Finding handle to syncad_top.test.B2
+Finding handle to syncad_top.test.B1
+Finding handle to syncad_top.test.B0
+Finding handle to syncad_top.test.E3
+Finding handle to syncad_top.test.E2
+Finding handle to syncad_top.test.E1
+Finding handle to syncad_top.test.E0
+Compile Complete
+.
+Running...
+0 Errors, 0 Warnings
+Compile time = 0.00100, Load time = 0.01400, Execution time = 0.00000
+
+Normal exit

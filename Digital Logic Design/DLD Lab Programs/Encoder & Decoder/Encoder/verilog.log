@@ -1,0 +1,25 @@
+Dumping macros: __VERIWELL__
+VeriLogger Pro simulation log created at Tue Jun 29 23:41:12 2021
+Beginning Compile
+Beginning Phase I
+Compiling source file: C:\Users\Hp\Documents\DLD Lab Programs\Encoder and Decoder\2302HumairShoukat.v
+Finished Phase I
+Entering Phase II...
+Compiling auto-generated top level module file: C:\Users\Hp\Documents\DLD Lab Programs\Encoder and Decoder\untitled0Tim.v
+Finished Phase II
+Entering Phase III...
+Finished Phase III
+Highest level modules:   syncad_top
+Finding handle to syncad_top.test.Y3
+Finding handle to syncad_top.test.Y2
+Finding handle to syncad_top.test.Y1
+Finding handle to syncad_top.test.Y0
+Finding handle to syncad_top.test.A
+Finding handle to syncad_top.test.B
+Compile Complete
+.
+Running...
+0 Errors, 0 Warnings
+Compile time = 0.01100, Load time = 0.03800, Execution time = 0.00200
+
+Normal exit
