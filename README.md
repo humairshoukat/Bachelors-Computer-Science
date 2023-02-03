@@ -14,7 +14,7 @@ Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc.
 * Software Engineering
 * Computer Networks
 * Information Security
-<br>
+
 ### General Education Courses
 * English Composition & Comprehension
 * Technical & Business Writing 
