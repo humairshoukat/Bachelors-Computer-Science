@@ -59,3 +59,63 @@ Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc.
 * Advance OOP
 * Visual Programming
 * Mobile App Development etc.
+
+## Domain Courses for BS (Software Engineering) <br>
+### Software Engineering Core (Compulsory) Courses
+* Human Computer Interaction
+* Software Construction & Development
+* Software Design & Architecture
+* Software Project Management
+* Software Quality Engineering
+* Software Re-Engineering
+* Software Requirements Engineering
+* Web Engineering 
+
+### Software Engineering Supporting Courses
+* Business Process Engineering
+* Formal Methods in Software Engineering
+* Operations Research
+* Simulation and Modeling
+* Stochastic Processes
+
+### Software Engineering Elective Courses
+* Agent Based Software Engineering
+* Big Data Analytics
+* Cloud Computing
+* Computer Graphics
+* Data Encryption and Security
+* E-Commerce
+* Game Application Development
+* Global Software Development
+* Information Systems Audit
+* Management Information Systems
+* Mobile Application Development
+* Multimedia Communication
+* Natural Language Processing
+* Real Time Systems
+* Semantic Web
+* Software Engineering Economics
+* Software Metrics
+* Systems Programming
+* Topics in Software Engineering
+* Visual Programming 
+
+## Domain Courses for BS (Information Technology) <br>
+### BSIT Core (Compulsory) Courses
+* Cyber Security
+* Database Administration and Management
+* Information Technology Project Management
+* Information Technology Infrastructure
+* System and Network Administration
+* Virtual Systems and Services
+* Web Technologies 
+
+### BSIT Supporting Courses
+* Enterprise Systems
+* Modeling and Simulation
+* Formal Methods
+* Operations Research
+* Software Requirements Engineering 
+
+### BSIT Elective Courses
+* Add BSIT Elective Courses here that you studied.
