@@ -1,0 +1,38 @@
+#!/bin/sh
+
+echo Please enter marks of the subjects
+echo Enter Mathematics Marks: 
+read math
+echo Enter Chemistry Marks: 
+read chm
+echo Enter Physics Marks: 
+read phy
+total3=`expr $math + $chm`
+total3=`expr $total3 + $phy`
+$tmathphy=`expr $math + $phy`
+if [ `expr $math -ge 65` ]
+then
+	if [ `expr $chm -ge 50` ]
+	then
+		if [ `expr $phy -ge 55` ]
+		then
+			if [ `expr $total3 -ge 180` ]
+			then
+				if [ `expr $tmathphy -ge 140` ]
+				then
+				echo You are eligible for admission in Engineering
+				else
+				echo You are not eligible for admission in Engineering
+				fi
+			else
+			echo You are not eligible for admission in Engineering
+			fi
+		else
+		echo You are not eligible for admission in Engineering
+		fi
+	else
+	echo You are not eligible for admission in Engineering
+	fi
+else
+echo You are not eligible for admission in Engineering
+fi

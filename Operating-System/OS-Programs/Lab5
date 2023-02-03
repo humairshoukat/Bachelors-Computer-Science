@@ -1,0 +1,77 @@
+#!/bin/sh
+
+#Write a Shell Program to Check grade of 3 students,
+#(to enter rollno, name, marks1, marks2, marks3, average)
+#for((i=1; i<4; i++))
+#do
+#echo Enter Roll #:
+#read r
+#echo Enter Name:
+#read n
+#echo Enter Marks1:
+#read m1
+#echo Enter Marks2:
+#read m2
+#echo Enter Marks3:
+#read m3
+#x=`expr $m1 + $m2 + $m3`
+#avg=`expr $x / 3`
+#if [ `expr $avg` -ge 80 ]
+#then
+#echo "Grade A"
+#elif [ `expr $avg` -ge 70 ]
+#then 
+#echo "Grade B"
+#elif [ `expr $avg` -ge 60 ]
+#then
+#echo "Grade C"
+#elif [ `expr $avg` -ge 50 ]
+#then
+#echo "Grade D"
+#else
+#echo "Grade F"
+#fi
+#done
+
+
+#Write a shell Program to count number of vowels in a line of text
+echo Enter Text:
+read str
+len=$(expr length $str)
+count=0
+while [ $len -gt 0 ]
+do
+ch=$(echo $str | cut -c $len)
+case $ch in [aeiouAEIOU] )
+count=$(($count + 1))
+echo $ch
+;;
+esac
+len=$((expr $len - 1))
+done
+echo $count
+
+
+#Write a shell program to find the sum of all numbers between 60 to 80, which are divisible by 2 and not divisible by 6.
+#sum=0
+#for ((i=60; i<=80; i++))
+#do
+#if [ `expr $i % 2` -eq 0 ] && [ `expr $i % 6` -ne 0 ]
+#then
+#sum=`expr $sum + $i`
+#fi
+#done
+#echo Sum is: $sum
+
+
+
+#Find greatest number from the set of numbers
+#g=0
+#for((i=1; i<=20; i++))
+#do
+#if [ $g -lt $i ]
+#then
+#g=$i
+#fi
+#done
+#echo $g

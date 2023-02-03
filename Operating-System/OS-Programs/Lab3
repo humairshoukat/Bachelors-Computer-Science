@@ -1,0 +1,90 @@
+#!/bin/sh
+
+#Q1: Perform Arithmetic Operations Using Case Construction
+#echo Please choose an option
+#echo 1. Addition 
+#echo 2. Subtraction 
+#echo 3. Multiplication 
+#echo 4. Division
+#read x
+#echo Enter 1st value:
+#read a
+#echo Enter Second Value:
+#read b
+#case $x in
+#1) z=`expr $a + $b`
+#echo Result is: $z
+#;;
+#2) z=`expr $a - $b`
+#echo Result is: $z
+#;;
+#3) z=`expr $a \* $b`
+#echo Result is: $z
+#;;
+#4) z=`expr $a / $b`
+#echo Result is: $z
+#;;
+#*) echo You choose Wrong operation Please choose again
+#;;
+#esac 
+
+
+#Q2: Write Shell Program to find whether the character is vowel or not?
+#echo "Enter a Letter: "
+#read x
+#case $x in
+#a) echo "Entered Letter is Vowel"
+#;;
+#e) echo "Entered Letter is Vowel"
+#;;
+#i) echo "Entered Letter is Vowel"
+#;;
+#o) echo "Entered Letter is Vowel"
+#;;
+#u) echo "Entered Letter is Vowel"
+#;;
+#*) echo "Enter letter is not vowel"
+#;;
+#esac
+
+
+
+#Q3: Write an interactive file handling Program that let user the choice of copy the content, remove any file, list down the home directory and display calender.
+echo Plesae Choose an Option
+echo 1. Copy Content
+echo 2. Remove any File
+echo 3. List down any directory
+echo 4. Display Calender
+read op
+case $op in
+1)
+echo Enter File name:
+read a
+echo Enter Destination:
+read s
+cp $a $s
+echo File is Copied
+;;
+2)
+echo Enter File name:
+read a
+rm $a 
+echo File is Removed
+;;
+3)
+#echo Enter directory Name
+#read a
+ls $home
+;;
+4) 
+echo Enter Month
+read a
+echo Enter Year
+read b
+cal $a $b 
+;;
+*)
+echo "You choose wrong option Please Choose correct option"
+;;
+esac
+

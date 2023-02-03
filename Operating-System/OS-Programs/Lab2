@@ -1,0 +1,53 @@
+#!/bin/sh
+
+#Input From User
+#echo "Enter Your Name:"
+#read a
+#echo "Your Name is: "$a
+
+#Addition/Subtraction/Multiplication/Division/Mod
+#echo "Enter first number:"
+#read a
+#echo "Enter second number:"
+#read b
+#c=`expr $a % $b`
+#echo "Result is: "$c
+
+#Statement Program
+echo "Enter the first string"
+read str1
+echo "Enter the second string"
+read str2
+if [ $str1 = $str2 ]
+then
+echo "Strings are equal"
+else
+echo "Strings are unequal"
+fi
+
+#Number Program (Even/Odd)
+echo "Enter the number"
+read x
+if [ `expr $x % 2` -eq 0 ]
+then
+echo "Numbers is even"
+else
+echo "Numbers is odd"
+fi
+
+#Number Program (greatest of three numbers)
+echo "Enter the first number"
+read x
+echo "Enter the second number"
+read y
+echo "Enter the third number"
+read z
+if [ $x -gt $y ] && [ $x -gt $z ]
+then
+echo $x" is greatest"
+elif [ $y -gt $x ] && [ $y -gt $z]
+then
+echo $y" is greatest"
+else
+echo $z" is greatest"
+fi

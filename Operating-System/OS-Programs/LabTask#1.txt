@@ -1,0 +1,28 @@
+#!/bin/sh
+
+echo "Enter first number:"
+read x
+echo "Enter second number:"
+read y
+echo "Select Arthmetic Operation"
+echo "1. Addition"
+echo "2. Subtraction"
+echo "3. Multiplication"
+echo "4. Division"
+read op
+if [ `expr $op` -eq 1 ]
+then
+z=`expr $x + $y`
+echo "Result is: "$z
+elif [ `expr $op` -eq 2 ]
+then
+z=`expr $x - $y`
+echo "Result is: "$z
+elif [ `expr $op` -eq 3 ]
+then
+z=`expr $x \* $y`
+echo "Result is: "$z
+else
+z=`expr $x / $y`
+echo "Result is: "$z
+fi

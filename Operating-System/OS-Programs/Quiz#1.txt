@@ -1,0 +1,75 @@
+#Q#1: Write a program to show odd numbers entered by user
+echo Enter a number:
+read n
+if [ `expr $n` -gt 5 ]
+then
+   echo Entered number is incorrect. Please enter below or equal to 5.
+else
+   for((i=n; i<=1; i--))
+   do
+      if [ `expr $n` -eq 5 ]
+      then
+         for((j=1; j<=10; j=j+2))
+         do
+             echo $j
+         done
+      elif [ `expr $n` -eq 4 ]
+      then
+         for((j=3; j<=10; j=j+2))
+         do
+             echo $j
+         done
+      elif [ `expr $n` -eq 3 ]
+      then
+         for((j=5; j<=10; j=j+2))
+         do
+             echo $j
+         done
+      elif [ `expr $n` -eq 2 ]
+      then
+         for((j=7; j<=10; j=j+2))
+         do
+             echo $j
+         done
+      else
+         echo 9
+      fi
+   done
+fi
+
+
+
+echo Enter a number:
+read n
+if [ `expr $n` -gt 5 ]
+then
+   echo Entered number is incorrect. Please enter below or equal to 5.
+else
+   for((i=n; i<=1; i--))
+   do
+      case $n in
+      5) for((j=1; j<=10; j=j+2))
+         do
+             echo $j
+         done
+      ;;
+      4) for((j=3; j<=10; j=j+2))
+         do
+             echo $j
+         done
+      ;;
+      3) for((j=5; j<=10; j=j+2))
+         do
+             echo $j
+         done
+      ;;
+      2) for((j=7; j<=10; j=j+2))
+         do
+             echo $j
+         done
+      ;;
+      *) echo 9
+      ;;
+      esac
+   done
+fi

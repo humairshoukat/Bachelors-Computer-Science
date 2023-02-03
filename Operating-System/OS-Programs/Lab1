@@ -1,0 +1,10 @@
+#!/bin/sh
+
+#x="NUML"
+#echo $x
+#exit 0;
+
+x="Humair"
+for i in x{1..5};do
+echo $x;done
+exit 0;

@@ -1,0 +1,43 @@
+#!/bin/sh
+
+#CommandLineArgumentPractice
+#v1=$1
+#op=$2
+#v2=$3
+#x=`expr $v1 $op $v2`
+#echo $x
+
+#Write a script using command line argument to read any string and display a suitable message if it doesn't have at least 10 characters.
+#x=`expr length $1`
+#if [ `expr $x` -lt 10 ]
+#then
+#echo "Your string have less than 10 characters"
+#else
+#echo "Your string have more than 10 characters"
+#fi
+
+#FunctionsPractice
+#Hello () {
+#  echo Hello World!
+#}
+#Hello
+
+#Hello () {
+#  echo Hello World! $1 $2 $3
+#}
+#Hello Humair Shoukat here
+
+#fun () {
+#  echo $1 $2
+#  return 10
+#}
+#fun Hello World!
+#ret=$?
+#echo $ret
+
+lines_in_file () {
+cat $1 | wc -l
+}
+num=$( lines_in_file $1 )
+echo The file $1 has $num lines in it.
+exit 0;

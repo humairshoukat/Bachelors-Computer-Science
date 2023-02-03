@@ -1,0 +1,62 @@
+#!/bin/sh
+
+#echo Numbers from 1-20 with For Loop
+#for((i=0; i<=20; i++))
+#do
+#echo $i
+#done
+
+#echo Numbers from 1-20 with While loop
+#i=1
+#while [ $i -le 20 ]
+#do 
+#echo $i
+#i=`expr $i + 1`
+#done
+
+#Q1: Write a shell program to print factorial of any number
+echo Enter a Number:
+read x
+for((i=x-1; i>=1; i--))
+do
+x=`expr $x \* $i`
+done
+echo Factorial of your entered number is: $x
+
+
+#Q2: Wite a shell program to print any number table
+echo Enter a Number:
+read x
+for((i=1; i<=10; i++))
+do
+z=`expr $x \* $i`
+echo $z
+done
+
+
+#Q3: Write a shell program to find sum of odd and even numbers from a set
+Esum=0
+Osum=0
+for ((i=10; i<=20; i++))
+do
+if [ `expr $i % 2` -eq 0 ]
+then
+Esum=`expr $Esum + $i`
+else
+Osum=`expr $Osum + $i`
+fi
+done
+echo Sum of even numbers is: $Esum
+echo Sum of odd numbers is: $Osum
+
+
+#Q4: wite a shell program to check leap years from a set of years
+for ((i=2020; i<=2035; i++))
+do
+if [ `expr $i % 4` -eq 0 ]
+then
+echo $i is a leap year
+else
+echo " "
+fi
+done
