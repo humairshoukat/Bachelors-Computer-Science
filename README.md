@@ -50,7 +50,7 @@ Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc. 
 
 ### Computer Science Supporting Courses
 * Differential Equations
-* Multi-variate Calculus
+* Multivariable Calculus
 * Graph Theory
 * Theory of Programming Languages
 * Numerical Computing
