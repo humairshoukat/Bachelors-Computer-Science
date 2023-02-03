@@ -1,0 +1,99 @@
+<html>
+    <title>Event Handling</title>
+    <body>
+
+        <div id="para" style="border:solid 1px gray; color: red; background-color: lightblue; padding: 10px;"> The para is not clicked yet.</div>
+        <div id="para" style="border:solid 1px gray; color: red; background-color: lightblue; padding: 10px;"></div>
+        <div id="para" style="border:solid 1px gray; color: red; background-color: lightblue; padding: 10px;"></div>
+        <div id="para" style="border:solid 1px gray; color: red; background-color: lightblue; padding: 10px;"></div>
+        </br></br>
+
+        <form name="subscribe" id="myform">
+            <input type="text" name="email">
+            <input type="text" name="info">
+            <input type="submit">
+        </form>
+        <br><br>
+
+        <form>
+            <input type="text" id="user">
+            <input type="password">
+            <input type="submit" onclick="getdata()">
+        </form>
+        <br><br>
+
+        <form id="cal">
+            <input type="text" id="num1">
+            <input type="text" id="num2">
+            <input type="submit" id="sum" onclick="addTwo()">
+        </form>
+        <br><br>
+
+        <img src="1.jpg" id="img" height="90%" width="80%">
+
+        <script>
+
+            // Div Paragraph Clicked
+            var mydiv=document.getElementsByTagName('div')
+            for(i=0; i<4; i++)
+            {
+                mydiv[i].addEventListener('click', addtext, false);
+            }
+            function addtext(e){
+                e.target.innerHTML="clicked";
+            }
+            
+            // Methods to access your forms elements
+            document.forms[1].elements[0].value="username";
+            document.subscribe.email.value="Enter Email";
+            document.getElementById('myform').info.value="Add Info";
+            document.getElementById('user').value="Add Username";
+
+            function getdata()
+            {
+                var fdata=document.forms[1].elements[0].value;
+                alert(fdata);
+                document.write(fdata);
+            }
+
+            // document.subscribe.reset();
+            // document.subscribe.submit();
+
+            // Form 3 (Form Validation)
+            document.getElementById('num1').value="enter num 1";
+            document.getElementById('num2').value="enter num 2";
+            function addTwo()
+            {
+                var first=document.getElementById('num1').value;
+                var second=document.getElementById('num2').value;
+                // document.write(first);
+                // document.write(second);
+
+                if((/^\d+$/.test(first)) && (/^\d+$/.test(second)))
+                {
+                    var sum=parseInt(first)+parseInt(second);
+                    document.write(sum);
+                }
+                else
+                {
+                    alert("You Entered wrong data. Please Enter only numbers");
+                }
+            }
+
+            // image
+            var img=document.getElementById('img');
+            img.addEventListener('mouseover',changeimg,false);
+            img.addEventListener('mouseout',backimg, false);
+            function changeimg()
+            {
+                img.src="2.png";
+            }
+            function backimg()
+            {
+                img.src="1.jpg";
+            }
+
+        </script>
+
+    </body>
+</html>

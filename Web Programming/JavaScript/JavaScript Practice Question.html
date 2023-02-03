@@ -1,0 +1,29 @@
+<html>
+    <title>JavaScript Question</title>
+    <body>
+        <br><br>
+        <img src="img2.jpeg" id="img" height="90%" width="80%">
+
+        <script>
+            // image
+            var img=document.getElementById('img');
+            img.addEventListener('click',changeimg,false);
+            function changeimg()
+            {
+                img.src="img1.jpeg";
+                img.addEventListener('click',backimg, false);
+                function backimg()
+                {
+                   img.src="img2.jpeg";
+                   img.addEventListener('click',recall,false);
+                   function recall()
+                   {
+                     changeimg();
+                   }
+                }
+            }
+
+        </script>
+
+    </body>
+</html>

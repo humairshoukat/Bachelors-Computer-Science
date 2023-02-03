@@ -1,0 +1,81 @@
+<html>
+    <title>FrontEnd</title>
+    <style>
+        .circle{
+            border-radius: 100%;
+            width: 200px;
+            height: 200px;
+            border: solid 1px black;
+
+        }
+    </style>
+    <body>
+        <p id="para"></p>
+
+        <table id="table" style="border: solid 1px black;"></table>
+        
+
+        <h1 id="h1" onclick="giveborder()" dbclick="deleteborder()">Humair Shoukat</h1>
+        <h2>Humair Shoukat</h2>
+        <ul></ul>
+
+        <img id="img1" src="inCollage_20210830_080756220.jpg" width="200" height="200" onmouseover="giveborder()" onmouseout="deleteborder()">
+        <img id="img2" class="circle" src="inCollage_20210830_080756220.jpg" width="200" height="200">
+
+        <script>
+
+            // Paragraph
+            document.getElementById('para').innerHTML="Hello JavaScript";
+            for(count=1; count<6; count++)
+            {
+                document.getElementById('para').innerHTML+='<li>'+count;
+                document.getElementById('para').innerHTML+='<li>'+"Hello JavaScript"+'</li>';
+            }
+            
+            // Table
+            for(count=1; count<11; count++)
+            {
+                document.getElementById('table').innerHTML+='<td>'+count+'</td>';
+            }
+
+            // Headings
+            var hd=document.getElementsByTagName('h1');
+            // h2s[0].style.font-style='italic';
+            hd[0].style.textTransform='uppercase';
+            function giveborder()
+            {
+                hd.style.border='solid 5px black';
+            }
+            function deleteborder()
+            {
+                hd.style.border='none';
+            }
+
+            // Image 1
+            function giveborder()
+            {
+                 document.getElementById('img1').style.border='solid 5px black';
+            }
+            function deleteborder()
+            {
+                 document.getElementById('img1').style.border='none';
+            }
+
+            // Image 2
+            var img=document.getElementById('img2');
+            img.addEventListener('mouseover',makebig, false);
+            img.addEventListener('mouseout',makesmall, false);
+            function makebig()
+            {
+                img.style.width='250px';
+                img.style.height='250px';
+            }
+            function makesmall()
+            {
+                img.style.width='200px';
+                img.style.height='200px';
+            }
+            
+        </script>
+    </body>
+</html>
