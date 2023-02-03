@@ -11,7 +11,7 @@ Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc.
 * Discrete Structures
 * Operating Systems
 * Database Systems
-* Software Engineering
+* [Software Engineering](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Software-Engineering)
 * Computer Networks
 * Information Security
 
