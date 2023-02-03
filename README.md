@@ -1,8 +1,10 @@
 # BS-ComputerScience-SoftwareEngineering-IT-AI
-This repo contains data of the courses taught in the BS Degree of [Computer Science (CS), Software Engineering (SE), Information Technology (IT), Computer Engineering (CE), and Artificial Intelligence (AI)]. 
+This repo contains data of the courses taught in the BS Degree of [Computer Science (CS), Software Engineering (SE), Information Technology (IT), and Artificial Intelligence (AI)]. 
 <br> <br>
 Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc. <br><br>
-**Note:** Assignments, Quizzes, Projects, and Presentations are not included because those are the soul source of learning opportunities for you in the university/college. If you copy those things you will not going to learn any thing during your degree. So please do some efforts and try to build those things on your own if you want to learn practically.
+**Note:** Assignments, Quizzes, Projects, and Presentations are not included because those are the soul source of learning opportunities for you in the university/college. If you copy those things you will not going to learn any thing during your degree. So please do some efforts and try to build those things on your own if you want to learn practically. <br><br>
+#### Instructions for Contribution
+If you want to contribute a full course please make a separate folder for it. If you want to an existing course, then please contribute to the respective folder of that course i.e. Notes in the notes folder of the course and coding files in the coding/programs folder of the course.
 <br><br>
 ## Common Courses for BS (CS/SE/IT/AI) <br>
 ### Computing Core Courses
