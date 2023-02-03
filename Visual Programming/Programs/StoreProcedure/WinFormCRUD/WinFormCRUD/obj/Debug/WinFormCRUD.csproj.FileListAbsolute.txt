@@ -1,0 +1,31 @@
+C:\Users\Mohib Khan\Downloads\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\bin\Debug\WinFormCRUD.exe.config
+C:\Users\Mohib Khan\Downloads\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\bin\Debug\WinFormCRUD.exe
+C:\Users\Mohib Khan\Downloads\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\bin\Debug\WinFormCRUD.pdb
+C:\Users\Mohib Khan\Downloads\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.csproj.AssemblyReference.cache
+C:\Users\Mohib Khan\Downloads\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.FormEmployee.resources
+C:\Users\Mohib Khan\Downloads\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.Properties.Resources.resources
+C:\Users\Mohib Khan\Downloads\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.csproj.GenerateResource.cache
+C:\Users\Mohib Khan\Downloads\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Mohib Khan\Downloads\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.exe
+C:\Users\Mohib Khan\Downloads\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.pdb
+C:\Users\Mohib Khan\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\bin\Debug\WinFormCRUD.exe.config
+C:\Users\Mohib Khan\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\bin\Debug\WinFormCRUD.exe
+C:\Users\Mohib Khan\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\bin\Debug\WinFormCRUD.pdb
+C:\Users\Mohib Khan\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.csproj.AssemblyReference.cache
+C:\Users\Mohib Khan\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.FormEmployee.resources
+C:\Users\Mohib Khan\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.Properties.Resources.resources
+C:\Users\Mohib Khan\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.csproj.GenerateResource.cache
+C:\Users\Mohib Khan\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Mohib Khan\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.exe
+C:\Users\Mohib Khan\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.pdb
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\bin\Debug\WinFormCRUD.exe.config
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\bin\Debug\WinFormCRUD.exe
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\bin\Debug\WinFormCRUD.pdb
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.FormEmployee.resources
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.Properties.Resources.resources
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.exe
+C:\Users\Admin\source\repos\WinFormCRUD store procedures\WinFormCRUD\WinFormCRUD\obj\Debug\WinFormCRUD.pdb
