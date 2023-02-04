@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\AppProps\bin\Debug\AppProps.dll
+C:\Users\Admin\source\repos\AppProps\bin\Debug\AppProps.pdb
+C:\Users\Admin\source\repos\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AppProps\obj\Debug\AppProps.dll
+C:\Users\Admin\source\repos\AppProps\obj\Debug\AppProps.pdb
