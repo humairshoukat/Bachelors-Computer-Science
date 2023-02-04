@@ -8,59 +8,59 @@ If you want to contribute a full course please make a separate folder for it. If
 <br><br>
 ## Common Courses for BS (CS/SE/IT/AI) <br>
 ### Computing Core Courses
-* Programming Fundamentals
-* Object Oriented Programming
-* Data Structures & Algorithms
-* Discrete Structures
-* Operating Systems
-* Database Systems
+* [Programming Fundamentals](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Programming%20Fundamentals)
+* [Object Oriented Programming](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Object-Oriented-Programming)
+* [Data Structures & Algorithms](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Data-Structure-Algorithms)
+* [Discrete Structures](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Discrete-Structures)
+* [Operating System](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Operating-System)
+* [Database Systems](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Database-Systems)
 * [Software Engineering](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Software-Engineering)
-* Computer Networks
+* [Computer Networks](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Computer-Networks)
 * Information Security
 
 ### General Education Courses
-* English Composition & Comprehension
-* Technical & Business Writing 
+* [English Composition & Comprehension](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/English%20Comprehension)
+* [Technical & Business Writing](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Technical%20Business%20Writing)
 * [Communication & Presentation Skills](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Communication%20%26%20Presentation%20skills)
-* Professional Practices
-* Intro. to Information & Computer Technology
-* Pakistan Studies
-* Islamic Studies
+* [Professional Practices](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Professional%20Practices)
+* [Intro. to Information & Computer Technology](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Information%26Computer-Technology)
+* [Pakistan Studies](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Pakistan%20Studies)
+* [Islamic Studies](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Islamic%20Studies)
  
 ### University Elective Courses
-* Foreign Language
+* Foreign Language i.e. [German Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/German%20Language)
 * Social Service
-* Management Related
+* Management Related i.e. [Human Resource Management](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Human%20Resource%20Management)
 * Social Science Related
 * Economy Related
 
 ### Mathematics and Science Foundation Courses
 * [Calculus & Analytical Geometry](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Calculus%20%26%20Analytical%20Geometry) 
-* Probability & Statistics
-* Linear Algebra
+* [Probability & Statistics](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Statistics%20%26%20Probability)
+* [Linear Algebra](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Linear%20Algebra)
 * [Applied Physics](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Applied%20Physics%20%26%20Electronics)
 
 ## Domain Courses for BS (COMPUTER SCIENCE) <br>
 ### Computer Science Core (Compulsory) Courses
 * Compiler Construction
 * [Comp. Organization & Assembly Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Computer%20Organization%20%26%20Assembly%20Language)
-* Digital Logic Design
-* Design & Analysis of Algorithms
+* [Digital Logic Design](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Digital%20Logic%20Design)
+* [Design & Analysis of Algorithms](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Data-Structure-Algorithms) 
 * Parallel & Distributed Computing
 * [Artificial Intelligence](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Artificial%20Intelligence)
 * [Theory of Automata](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Automata%20Theory)
 
 ### Computer Science Supporting Courses
-* Differential Equations
-* Multivariable Calculus
+* [Differential Equations](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Differential%20Equations)
+* [Multivariable Calculus](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Multivariable%20Calculas)
 * Graph Theory
 * Theory of Programming Languages
-* Numerical Computing
+* [Numerical Computing](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Numerical%20Computing)
 
 ### Computer Science Elective Courses
-* Web Programming
+* [Web Programming](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Web%20Programming)
 * [Advance OOP](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Advance%20OOP)
-* Visual Programming
+* [Visual Programming](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Visual%20Programming)
 * Mobile App Development etc.
 
 ## Domain Courses for BS (Software Engineering) <br>
