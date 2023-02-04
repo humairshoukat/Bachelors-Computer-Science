@@ -76,7 +76,7 @@ If you want to contribute a full course please make a separate folder for it. If
 
 ### Software Engineering Supporting Courses
 * Business Process Engineering
-* Formal Methods in Software Engineering
+* [Formal Methods in Software Engineering](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT-AI/tree/main/Formal%20Methods)
 * Operations Research
 * Simulation and Modeling
 * Stochastic Processes
