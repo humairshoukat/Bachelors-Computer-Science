@@ -40,7 +40,7 @@ If you want to contribute a full course please make a separate folder for it. If
 * [Linear Algebra](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Linear%20Algebra)
 * [Applied Physics](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Applied%20Physics%20%26%20Electronics)
 
-## Domain Courses for BS (COMPUTER SCIENCE) <br>
+## Domain Courses for BS (Computer Science) <br>
 ### Computer Science Core (Compulsory) Courses
 * Compiler Construction
 * [Comp. Organization & Assembly Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Computer%20Organization%20%26%20Assembly%20Language)
@@ -104,7 +104,7 @@ If you want to contribute a full course please make a separate folder for it. If
 * Visual Programming 
 
 ## Domain Courses for BS (Information Technology) <br>
-### BSIT Core (Compulsory) Courses
+### Information Technology Core (Compulsory) Courses
 * Cyber Security
 * Database Administration and Management
 * Information Technology Project Management
@@ -113,12 +113,12 @@ If you want to contribute a full course please make a separate folder for it. If
 * Virtual Systems and Services
 * Web Technologies 
 
-### BSIT Supporting Courses
+### Information Technology Supporting Courses
 * Enterprise Systems
 * Modeling and Simulation
 * Formal Methods
 * Operations Research
 * Software Requirements Engineering 
 
-### BSIT Elective Courses
+### Information Technology Elective Courses
 * Add BSIT Elective Courses here that you studied.
