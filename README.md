@@ -29,9 +29,8 @@ If you want to contribute a full course please make a separate folder for it. If
  
 ### University Elective Courses
 * Foreign Language i.e. [German Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/German%20Language)
+* Management Related i.e. [Software Project Management](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Human%20Resource%20Management)
 * Social Service
-* Management Related i.e. [Human Resource Management](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Human%20Resource%20Management)
-[Software Project Management]
 * Social Science Related
 * Economy Related
 
