@@ -31,6 +31,7 @@ If you want to contribute a full course please make a separate folder for it. If
 * Foreign Language i.e. [German Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/German%20Language)
 * Social Service
 * Management Related i.e. [Human Resource Management](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Human%20Resource%20Management)
+[Software Project Management]
 * Social Science Related
 * Economy Related
 
@@ -53,15 +54,13 @@ If you want to contribute a full course please make a separate folder for it. If
 ### Computer Science Supporting Courses
 * [Differential Equations](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Differential%20Equations)
 * [Multivariable Calculus](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Multivariable%20Calculas)
-* Graph Theory
-* Theory of Programming Languages
 * [Numerical Computing](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Numerical%20Computing)
 
 ### Computer Science Elective Courses
 * [Web Programming](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Web%20Programming)
 * [Advance OOP](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Advance%20OOP)
 * [Visual Programming](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Visual%20Programming)
-* Mobile App Development etc.
+* Mobile App Development
 
 ## Domain Courses for BS (Software Engineering) <br>
 ### Software Engineering Core (Compulsory) Courses
