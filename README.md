@@ -39,7 +39,7 @@ If you want to contribute a full course please make a separate folder for it. If
 
 ## Domain Courses for BS (Computer Science) <br>
 ### Computer Science Core (Compulsory) Courses
-* Compiler Construction
+* [Compiler Construction](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Compiler%20Construction)
 * [Comp. Organization & Assembly Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Computer%20Organization%20%26%20Assembly%20Language)
 * [Digital Logic Design](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Digital%20Logic%20Design)
 * [Design & Analysis of Algorithms](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Data-Structure-Algorithms) 
