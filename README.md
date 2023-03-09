@@ -29,7 +29,7 @@ If you want to contribute a full course please make a separate folder for it. If
  
 ### University Elective Courses
 * Foreign Language i.e. [German Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/German%20Language)
-* Management Related i.e. [Software Project Management](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Human%20Resource%20Management)
+* Management Related i.e. [Software Project Management](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Software%20Project%20Management)
 
 ### Mathematics and Science Foundation Courses
 * [Calculus & Analytical Geometry](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Calculus%20%26%20Analytical%20Geometry) 
