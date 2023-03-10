@@ -1,4 +1,4 @@
-# BS-ComputerScience-SoftwareEngineering-IT-AI
+# BS-ComputerScience-SoftwareEngineering-IT
 This repo contains data of the courses taught in the BS Degree of [Computer Science (CS), Software Engineering (SE), and Information Technology (IT)]. 
 <br> <br>
 Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc. and much more. <br> <br>
