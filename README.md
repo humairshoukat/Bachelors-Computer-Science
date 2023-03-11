@@ -23,7 +23,7 @@ If you want to contribute a full course please make a separate folder for it. If
 * [Technical & Business Writing](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Technical%20Business%20Writing)
 * [Communication & Presentation Skills](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Communication%20%26%20Presentation%20skills)
 * [Professional Practices](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Professional%20Practices)
-* [Intro. to Information & Computer Technology](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Information%26Computer-Technology)
+* [Information & Computer Technology](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Information%26Computer-Technology)
 * [Pakistan Studies](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Pakistan%20Studies)
 * [Islamic Studies](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Islamic%20Studies)
  
