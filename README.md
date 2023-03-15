@@ -16,7 +16,7 @@ If you want to contribute a full course please make a separate folder for it. If
 * [Database Systems](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Database-Systems)
 * [Software Engineering](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Software-Engineering)
 * [Computer Networks](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Computer-Networks)
-* Information Security
+* Information Security 
 
 ### General Education Courses
 * [English Composition & Comprehension](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/English%20Comprehension)
