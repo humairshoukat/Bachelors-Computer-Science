@@ -1,5 +1,5 @@
 # BS-ComputerScience-SoftwareEngineering-IT
-This repo contains data of the courses taught in the BS Degree of Computer Science (CS), Software Engineering (SE), and Information Technology (IT). 
+This repo contains data of the common courses, taught in the Bachelor's Degree of Computer Science, Software Engineering, and Information Technology. 
 <br> <br> 
 Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc. and much more. <br> <br>
 **Note:** Assignments, Quizzes, Projects, and Presentations are not included because those are the soul source of learning opportunities for you in the university/college. If you copy those things you will not going to learn any thing during your degree. So please do some efforts and try to build those things on your own if you want to learn practically. <br><br>
