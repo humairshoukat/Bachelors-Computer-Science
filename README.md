@@ -1,12 +1,11 @@
-# BS-ComputerScience-SoftwareEngineering-IT
-This repo contains data of the common courses, taught in the Bachelor's Degree of Computer Science, Software Engineering, and Information Technology. 
+# BS-Computer-Science
+This repo contains data of the courses, taught in the Bachelor's Degree of Computer Science. 
 <br> <br> 
 Data of the courses includes Books, Lectures, Notes, Program/Coding Files, etc. and much more. <br> <br>
 **Note:** Assignments, Quizzes, Projects, and Presentations are not included because those are the soul source of learning opportunities for you in the university/college. If you copy those things you will not going to learn any thing during your degree. So please do some efforts and try to build those things on your own if you want to learn practically. <br><br>
 ### Instructions for Contribution
 If you want to contribute a full course please make a separate folder for it. If you want to contribute in an existing course, then please contribute to the respective folder of that course i.e. Notes in the notes folder of the course and coding files in the coding/programs folder of the course.
 <br><br>
-## Common Courses for BS (CS/SE/IT) <br>
 ### Computing Core Courses
 * [Programming Fundamentals](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Programming%20Fundamentals)
 * [Object Oriented Programming](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Object-Oriented-Programming)
@@ -37,7 +36,6 @@ If you want to contribute a full course please make a separate folder for it. If
 * [Linear Algebra](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Linear%20Algebra)
 * [Applied Physics](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Applied%20Physics%20%26%20Electronics)
 
-## Domain Courses for BS (Computer Science) <br>
 ### Computer Science Core (Compulsory) Courses
 * [Compiler Construction](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Compiler%20Construction)
 * [Comp. Organization & Assembly Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Computer%20Organization%20%26%20Assembly%20Language)
@@ -57,63 +55,3 @@ If you want to contribute a full course please make a separate folder for it. If
 * [Advance OOP](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Advance%20OOP)
 * [Visual Programming](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Visual%20Programming)
 * Mobile App Development
-
-## Domain Courses for BS (Software Engineering) <br>
-### Software Engineering Core (Compulsory) Courses
-* Human Computer Interaction
-* Software Construction & Development
-* Software Design & Architecture
-* Software Project Management
-* Software Quality Engineering
-* Software Re-Engineering
-* Software Requirements Engineering
-* Web Engineering 
-
-### Software Engineering Supporting Courses
-* Business Process Engineering
-* [Formal Methods in Software Engineering](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Formal%20Methods)
-* Operations Research
-* Simulation and Modeling
-* Stochastic Processes
-
-### Software Engineering Elective Courses
-* Agent Based Software Engineering
-* Big Data Analytics
-* Cloud Computing
-* Computer Graphics
-* Data Encryption and Security
-* E-Commerce
-* Game Application Development
-* Global Software Development
-* Information Systems Audit
-* Management Information Systems
-* Mobile Application Development
-* Multimedia Communication
-* Natural Language Processing
-* Real Time Systems
-* Semantic Web
-* Software Engineering Economics
-* Software Metrics
-* Systems Programming
-* Topics in Software Engineering
-* Visual Programming 
-
-## Domain Courses for BS (Information Technology) <br>
-### Information Technology Core (Compulsory) Courses
-* Cyber Security
-* Database Administration and Management
-* Information Technology Project Management
-* Information Technology Infrastructure
-* [System and Network Administration](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/System%20%26%20Network%20Administration)
-* Virtual Systems and Services
-* Web Technologies 
-
-### Information Technology Supporting Courses
-* Enterprise Systems
-* Modeling and Simulation
-* Formal Methods
-* Operations Research
-* Software Requirements Engineering 
-
-### Information Technology Elective Courses
-* Add BSIT Elective Courses here that you studied.
