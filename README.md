@@ -1,10 +1,7 @@
 # BS-Computer-Science
 This repo contains data of the courses, taught in the Bachelor's Degree of Computer Science. <br>
-Data includes Books, Lectures, Notes, Program Files/Coding Files, and much more. <br> <br>
+Data includes Books, Lectures, Notes, Program Files/Coding Files, and much more. <br><br>
 **Note:** Assignments, Quizzes, Projects, and Presentations are not included because those are the sole source of learning opportunities for you in the university/college. If you copy these things you will not going to learn anything during your degree. So do some effort and try to build these things on your own if you want to learn.
-<br><br>
-### Instructions for Contribution
-If you want to contribute to a course, then please contribute to the respective folder of that course i.e. Notes in the notes folder of the course and coding files in the coding/programs folder of the course.
 <br><br>
 ### Computing Core Courses
 * [Programming Fundamentals](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Programming%20Fundamentals)
