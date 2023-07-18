@@ -33,7 +33,7 @@ Data includes Books, Lectures, Notes, Program Files/Coding Files, and much more.
 * [Linear Algebra](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Linear%20Algebra)
 * [Applied Physics](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Applied%20Physics%20%26%20Electronics)
 
-### Computer Science Core (Compulsory) Courses
+### Computer Science Core Courses
 * [Compiler Construction](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Compiler%20Construction)
 * [Comp. Organization & Assembly Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Computer%20Organization%20%26%20Assembly%20Language)
 * [Digital Logic Design](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Digital%20Logic%20Design)
