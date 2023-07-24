@@ -26,6 +26,7 @@ Data includes Books, Lectures, Notes, Program Files/Coding Files, and much more.
 ### University Elective Courses
 * Foreign Language i.e. [German Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/German%20Language)
 * Management Related i.e. [Software Project Management](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Software%20Project%20Management)
+* Leadership Related i.e. [Technical Entrepreneurship]
 
 ### Mathematics and Science Foundation Courses
 * [Calculus & Analytical Geometry](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Calculus%20%26%20Analytical%20Geometry) 
@@ -49,6 +50,4 @@ Data includes Books, Lectures, Notes, Program Files/Coding Files, and much more.
 
 ### Computer Science Elective Courses
 * [Web Programming](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Web%20Programming)
-* [Advance OOP](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Advance%20OOP)
-* [Visual Programming](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Visual%20Programming)
 * Mobile App Development
