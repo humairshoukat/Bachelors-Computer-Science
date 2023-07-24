@@ -1,4 +1,4 @@
-# BS-Computer-Science
+# Bachelors-Computer-Science
 This repo contains data of the courses, taught in the Bachelor's Degree of Computer Science. <br>
 Data includes Books, Lectures, Notes, Program Files/Coding Files, and much more. <br><br>
 **Note:** Assignments, Quizzes, Projects, and Presentations are not included because those are the sole source of learning opportunities for you in the university/college. If you copy these things you will not going to learn anything during your degree. So do some effort and try to build these things on your own if you want to learn.
@@ -26,7 +26,7 @@ Data includes Books, Lectures, Notes, Program Files/Coding Files, and much more.
 ### University Elective Courses
 * Foreign Language i.e. [German Language](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/German%20Language)
 * Management Related i.e. [Software Project Management](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Software%20Project%20Management)
-* Leadership Related i.e. [Technical Entrepreneurship]
+* Leadership Related i.e. Technical Entrepreneurship
 
 ### Mathematics and Science Foundation Courses
 * [Calculus & Analytical Geometry](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Calculus%20%26%20Analytical%20Geometry) 
