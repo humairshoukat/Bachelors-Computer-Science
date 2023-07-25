@@ -5,13 +5,13 @@ Data includes Books, Lectures, Notes, Code Files, and much more. <br><br>
 <br><br>
 ### Computing Core Courses
 * [Programming Fundamentals](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Programming%20Fundamentals)
-* [Object Oriented Programming](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Object%20Oriented%20Programming)
-* [Data Structures & Algorithms](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Data%20Structure%20Algorithms)
-* [Discrete Structures](https://github.com/humairshoukatBachelors-Computer-Science/tree/main/Discrete%20Structures)
-* [Operating System](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Operating%20System)
-* [Database Systems](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Database%20Systems)
+* [Object Oriented Programming](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Object-Oriented-Programming)
+* [Data Structures & Algorithms](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Data-Structure-Algorithms)
+* [Discrete Structures](https://github.com/humairshoukatBachelors-Computer-Science/tree/main/Discrete-Structures)
+* [Operating System](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Operating-System)
+* [Database Management System](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Database-Systems)
 * [Software Engineering](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Software%20Engineering)
-* [Computer Networks](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Computer%20Networks)
+* [Computer Networks](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Computer-Networks)
 * [Information Security](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Information%20Security)
 
 ### General Education Courses
