@@ -12,7 +12,7 @@ Data includes Books, Lectures, Notes, Program Files/Coding Files, and much more.
 * [Database Systems](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Database%20Systems)
 * [Software Engineering](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Software%20Engineering)
 * [Computer Networks](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Computer%20Networks)
-* Information Security 
+* [Information Security](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Information%20Security)
 
 ### General Education Courses
 * [English Composition & Comprehension](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/English%20Comprehension)
@@ -39,7 +39,7 @@ Data includes Books, Lectures, Notes, Program Files/Coding Files, and much more.
 * [Computer Organization & Assembly Language](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Computer%20Organization%20%26%20Assembly%20Language)
 * [Digital Logic Design](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Digital%20Logic%20Design)
 * [Design & Analysis of Algorithms](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Data%20Structure%20Algorithms) 
-* Parallel & Distributed Computing
+* [Parallel & Distributed Computing](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Parallel%20%26%20Distributed%20Computing%20)
 * [Artificial Intelligence](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Artificial%20Intelligence)
 * [Theory of Automata](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Automata%20Theory)
 
