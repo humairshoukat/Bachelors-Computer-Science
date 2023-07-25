@@ -1,8 +1,9 @@
 # Bachelors-Computer-Science
-This repo contains data of the courses, taught in the Bachelor's Degree of Computer Science. 
-Data includes Books, Lectures, Notes, Code Files, and much more. <br><br>
+This repo contains data of the courses, taught in the Bachelor's Degree of Computer Science. Data includes Books, Lectures, Notes, Code Files, and much more. <br><br>
+
 **Note:** Assignments, Quizzes, Projects, and Presentations are not included because those are the sole source of learning opportunities for you in the university/college. If you copy these things you will not going to learn anything during your degree. So do some effort and try to build these things on your own if you want to learn.
 <br><br>
+
 ### Computing Core Courses
 * [Programming Fundamentals](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Programming%20Fundamentals)
 * [Object Oriented Programming](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Object-Oriented-Programming)
@@ -19,7 +20,7 @@ Data includes Books, Lectures, Notes, Code Files, and much more. <br><br>
 * [Technical & Business Writing](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Technical%20Business%20Writing)
 * [Communication & Presentation Skills](https://github.com/humairshoukat/BS-ComputerScience-SoftwareEngineering-IT/tree/main/Communication%20%26%20Presentation%20skills)
 * [Professional Practices](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Professional%20Practices)
-* [Information & Computer Technology](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Information%20%26%20Computer%20Technology)
+* [Information & Computer Technology](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Information%26Computer-Technology)
 * [Pakistan Studies](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Pakistan%20Studies)
 * [Islamic Studies](https://github.com/humairshoukat/Bachelors-Computer-Science/tree/main/Islamic%20Studies)
  
