@@ -1,8 +1,8 @@
 # Bachelors-Computer-Science
 This repo contains data of the courses, taught in the Bachelor's Degree of Computer Science. <br>
-Data includes Books, Lectures, Notes, Code Files, and much more. <br><br>
+Data includes Books, Lectures, Notes, Code Files, and much more. <br>
 
-**Note:** Assignments, Quizzes, Projects, and Presentations are not included because those are the sole source of learning opportunities for you in the university/college. If you copy these things you will not going to learn anything during your degree. So do some effort and try to build these things on your own if you want to learn.
+**Note:** Assignments, Quizzes, Projects, and Presentations are not included because those are the sole source of learning opportunities for you in the university/college. If you copy these things you will not going to learn anything during your degree. So make some effort and try to build these things on your own if you want to learn.
 <br><br>
 
 ### Computing Core Courses
